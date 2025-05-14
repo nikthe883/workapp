@@ -41,8 +41,11 @@ It listens for a configurable hotkey (default: `Ctrl+Shift+C`), transforms your 
 ## Download & Run
 
 > Prebuilt executable is included in the [**Releases**](../../releases) tab!
+
 > Download and unzip the dist.rar file
+
 > Run clipboard_tray.exe
+
 > Enjoy!
 
 ### Or clone & run manually:
