@@ -25,8 +25,6 @@ It listens for a configurable hotkey (default: `Ctrl+Shift+C`), transforms your 
     2           banana
     3           cherry
     ```
-As well as
-
     ```
     Input:
     apple
@@ -39,8 +37,6 @@ As well as
     2           banana
     3           cherry
     ```
-
----
 
 ## Download & Run
 
