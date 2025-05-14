@@ -25,8 +25,7 @@ It listens for a configurable hotkey (default: `Ctrl+Shift+C`), transforms your 
     2           banana
     3           cherry
     ```
-- 🚀 Automatically pastes the result after transformation
-- 🛠 Fully offline — no network access or dependencies
+- Automatically pastes the result after transformation
 
 ---
 
