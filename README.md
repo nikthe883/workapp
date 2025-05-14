@@ -17,6 +17,20 @@ It listens for a configurable hotkey (default: `Ctrl+Shift+C`), transforms your 
     Input:
     1. apple
     2. banana
+    3. cherry
+
+    Output:
+    Position    Text
+    1           apple
+    2           banana
+    3           cherry
+    ```
+As well as
+
+    ```
+    Input:
+    apple
+    banana
     cherry
 
     Output:
@@ -25,7 +39,6 @@ It listens for a configurable hotkey (default: `Ctrl+Shift+C`), transforms your 
     2           banana
     3           cherry
     ```
-- Automatically pastes the result after transformation
 
 ---
 
