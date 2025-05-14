@@ -44,8 +44,7 @@ It listens for a configurable hotkey (default: `Ctrl+Shift+C`), transforms your 
 
 ### Or clone & run manually:
 ```bash
-git clone https://github.com/yourusername/clipboard-formatter.git
-cd clipboard-formatter
+git clone https://github.com/nikthe883/workapp.git
 pip install -r requirements.txt
 python clipboard_tray.py
 
